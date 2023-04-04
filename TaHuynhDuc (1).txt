@@ -12,4 +12,12 @@ total 15
 
 
 
-	
+enemy 4 => - 1 điểm do chưa implement được property Damage
+	   - 1 điểm do chưa implement được method ShowInfo()
+	   - 1 điểm do chưa tính được Damage
+=> enemy 3
+
+op1a 3 => không cho điểm: đã comment phần nhập enemy, chưa nhập được damage vào indexer
+=> 0
+	   
+	   
